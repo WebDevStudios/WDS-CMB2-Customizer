@@ -1,0 +1,17 @@
+{
+	"name": "wds-cmb2-customizer",
+	"title": "WDS CMB2 Customizer",
+	"version": "0.1.0",
+	"description": "Use CMB2 to easily generate fields for the Customizer in WordPress",
+	"author": {
+		"name": "WebDevStudios",
+		"url": "http://webdevstudios.com"
+	},
+	"license": "GPLv2",
+	"devDependencies": {
+	    "grunt": "latest",
+	    "grunt-contrib-watch": "latest",
+	    "grunt-wp-i18n": "latest",
+	    "load-grunt-tasks": "latest"
+	}
+}

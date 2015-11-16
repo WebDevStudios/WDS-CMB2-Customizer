@@ -1,0 +1,18 @@
+{
+  "name": "wds-cmb2-customizer",
+  "description": "Use CMB2 to easily generate fields for the Customizer in WordPress",
+  "license": "GPLv2",
+  "authors": [
+    "WebDevStudios"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
